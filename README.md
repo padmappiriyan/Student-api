@@ -50,8 +50,10 @@ Response:
 ##Get All Students
 
 Response:
+```json
 
 [
+
   {
     "id": "29cf0250-8a6f-4c5b-af82-d798c84c111f",
     "title": "Mr.",
@@ -69,6 +71,7 @@ Response:
     "city": "Jaffna",
     "course": "AI"
   }
+
 ]
 
   

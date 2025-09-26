@@ -39,7 +39,7 @@ You can access and import the Postman collection here:
 Response:
 
         {
-          "id": "29cf0250-8a6f-4c5b-af82-d798c84c111f",//
+          "id": "29cf0250-8a6f-4c5b-af82-d798c84c111f",
           "title": "Mr.",
           "name": "John Doe",
           "address": "123 Main St",
@@ -47,35 +47,29 @@ Response:
           "course": "C001"
        }
 
-##  Get All Students
-
+##Get All Students
 
 Response:
 
-
+[
   {
-    "id": "29cf0250-8a6f-4c5b-af82-d798c84c111f",//
+    "id": "29cf0250-8a6f-4c5b-af82-d798c84c111f",
     "title": "Mr.",
     "name": "Piriyan",
     "address": "Uduvil East chunnakam",
     "city": "Jaffna",
     "course": "Information Technology"
   }
-
-
-  
-  ,
-
-  
-  {
-    "id": "410aa5ef-f553-45ea-acb9-596dabae230b",//
+ ,
+ {
+    "id": "410aa5ef-f553-45ea-acb9-596dabae230b",
     "title": "Mr.",
     "name": "Jane Smith",
     "address": "Uduvil East Chunnakam",
     "city": "Jaffna",
     "course": "AI"
   }
-
+]
 
   
 ##POST /course
@@ -84,7 +78,7 @@ Response:
 
 
 {
-  "name": "Information Technology",//
+  "name": "Information Technology",
   "fee": 20000,
   "lecturerId": "10001",
   "lecturerName": "Amalraj"

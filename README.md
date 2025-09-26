@@ -78,8 +78,7 @@ Response:
 ##POST /course
 
 Response:
-
-
+```json
 {
   "name": "Information Technology",
   "fee": 20000,

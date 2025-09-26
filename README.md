@@ -85,6 +85,7 @@ Response:
   "lecturerId": "10001",
   "lecturerName": "Amalraj"
 }
+```
 
 ##Get All Courses
 

@@ -87,8 +87,11 @@ Response:
 }
 ```
 
+
 ##Get All Courses
 
+Respose:
+```json
 
   {
     "id": "ce9b8c1b-0758-46f3-8b54-455b8c6a9df5",
@@ -97,7 +100,7 @@ Response:
     "lecturerId": "L001",
     "lecturerName": "Dr. Smith"
   },
-
+```
 
 
 

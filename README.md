@@ -32,9 +32,12 @@ You can access and import the Postman collection here:
 [📥 Student Management Postman Collection](https://web.postman.co/workspace/Personal-Workspace~b4c7f084-5775-4963-ab50-55b06b0a0bf4/collection/42818958-e5529fd4-c445-4252-aa65-b25c178e32f6?action=share&source=copy-link&creator=42818958)
 
 
+
 ##Get a Student by ID
 
+
 Response:
+
         {
           "id": "29cf0250-8a6f-4c5b-af82-d798c84c111f",//
           "title": "Mr.",
@@ -45,6 +48,7 @@ Response:
        }
 
 ##  Get All Students
+
 
 
   {

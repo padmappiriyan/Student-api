@@ -26,3 +26,9 @@ The project demonstrates CRUD operations for **Students** and **Courses**, follo
 
 ---
 
+## 🧪 Postman Collection
+
+You can access and import the Postman collection here:  
+[📥 Student Management Postman Collection](https://web.postman.co/workspace/Personal-Workspace~b4c7f084-5775-4963-ab50-55b06b0a0bf4/collection/42818958-e5529fd4-c445-4252-aa65-b25c178e32f6?action=share&source=copy-link&creator=42818958)
+
+
